@@ -64,8 +64,8 @@ Automatically act on your data and communicate using third-party services like T
 ```
 /*
 To write a program to upload the Soil moisture sensor data in the Thing speak using an ESP32 controller.
-Developed by: Jhagan B
-RegisterNumber:  212220040066
+Developed by: GOKUL S
+RegisterNumber:  212222110011
 */
 
 #include <WiFi.h>
